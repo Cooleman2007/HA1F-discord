@@ -3,3 +3,6 @@
 *.pxt
 *.uxp
 *.uxt
+
+.idea
+HA1F Server Manager\target
